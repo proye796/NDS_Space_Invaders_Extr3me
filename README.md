@@ -1,6 +1,6 @@
 # 『Space Invader Extr3me』 NDS 한국어 패치 v2
 
-배포일: 2026-9-25
+배포일: 2026-09-23
 대상: Space Invaders Extreme 일본판
 
 이 패키지에는 원본 NDS나 패치 완료 NDS가 들어 있지 않습니다. 
