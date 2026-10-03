@@ -1,4 +1,4 @@
-# 『Space Invader Extreme』 NDS 한국어 패치 v2
+# 『Space Invader Extr3me』 NDS 한국어 패치 v2
 
 배포일: 2026-9-25
 대상: Space Invaders Extreme 일본판
